@@ -1,0 +1,35 @@
+#opcion1{
+	style= font-size:50vh;
+}
+
+#opcion2{
+	color: gray;
+}
+
+#opcion3{
+	color: green;
+}
+
+#letrablanca{
+	color: white;
+}
+ 
+#borde{
+	margin: 2vw;
+}
+
+#gris{
+	background-color: #303030;
+	height: 40vh;
+	width: 50vw;
+	color: white;
+	padding: 3vh;
+
+}
+#derecha{
+	text-align: right;
+}
+
+#imgbright{
+	filter: brightness(50%);"
+}

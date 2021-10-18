@@ -1,0 +1,24 @@
+#opcion2{
+	color: gray;
+}
+
+#opcion3{
+	color: green;
+}
+
+#letrablanca{
+	color: white;
+}
+
+#cuad_a{
+	border-color: blue;
+	margin: 1vw;
+}
+#cuad_g{
+	border-color: gray;
+	margin: 1vw;
+}
+#cuad_y{
+	border-color: #EDD800  ;
+	margin: 1vw;
+}
